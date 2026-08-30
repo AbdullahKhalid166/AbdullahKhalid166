@@ -6,7 +6,7 @@ Final-year Computer Science student, currently working as an **ML Engineer Inter
 - 🌱 Sharpening skills in applied ML — model building, deployment, and real-world data pipelines
 - 💡 Recent project: **Thyroid-Predictor** — disease prediction & probability scoring using XGBoost and Random Forest
 - 📍 Based in Lahore, Pakistan
-- 📫 Reach me: fa23-bscs-166@cs.lgu.edu.pk
+- 📫 Reach me: abdullahkhalid166e@gmail.com
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdullahKhalid166/AbdullahKhalid166/output/github-contribution-grid-snake-dark.svg" />
