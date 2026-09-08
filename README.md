@@ -1,12 +1,14 @@
 ### Hi, I'm Abdullah 👋
 
-Final-year Computer Science student, currently working as an **ML Engineer Intern** building a SmartPOS AI system, and finishing up my FYP.
+BSCS student and ML Engineer, focused on building and shipping real ML systems — not just notebooks.
 
-- 🔭 Currently building an ML-powered SmartPOS intelligence layer
-- 🌱 Sharpening skills in applied ML — model building, deployment, and real-world data pipelines
-- 💡 Recent project: **Thyroid-Predictor** — disease prediction & probability scoring using XGBoost and Random Forest
+- 🔭 **Currently:** Team Lead on **SmartPOS ML** (Flycon AI internship) — building, training, and deploying multiple ML models via Streamlit
+- 🌱 **Also doing:** ML tasks through the **Elevvo Pathways** internship
+- 💡 **Recent build:** [Thyroid Predictor](https://github.com/AbdullahKhalid166/Thyroid-Predictor) — disease prediction & probability scoring using XGBoost and Random Forest
+- 🧰 **Stack:** Python · Machine Learning · SQL · AWS · Data Structures & Algorithms · Web Development
+- 🎓 Final-year CS student at Lahore Garrison University
 - 📍 Based in Lahore, Pakistan
-- 📫 Reach me: abdullahkhalid166e@gmail.com
+- 📄 [Portfolio](https://abdullah-portfolio-ten-iota.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/abdullah-khalid-021382315/) · 📫 abdullahkhalid166e@gmail.com
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdullahKhalid166/AbdullahKhalid166/output/github-contribution-grid-snake-dark.svg" />
